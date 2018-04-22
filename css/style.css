@@ -9,21 +9,21 @@ body {
 #wrapper {
   position: relative;
   width: 100%;
-  min-height: 55vw;
+  min-height: 100vh;
   overflow: hidden;
 }
 
 .layer {
   position: absolute;
   width: 100vw;
-  min-height: 55vw;
+  min-height: 100vh;
   overflow: hidden;
 }
 
 .layer .content-wrap {
   position: absolute;
   width: 100vw;
-  min-height: 55vw;
+  min-height: 100vh;
 }
 
 .layer .content-body{
